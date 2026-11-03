@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.report-build/
+NLP Project.zip
+/project_report.md
+/presentation_video_script.md
+/report/EduQG_Final_Project_Report_A4.pdf
+/sample_passage.txt
+/presentation/EduQG_Project_Presentation_Code_Aligned.pptx
